@@ -1,5 +1,5 @@
 # sequelise-shop
-# dependancies
+## dependancies
     ## body-parser
     ## ejs
     ## express
